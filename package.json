@@ -1,0 +1,42 @@
+{
+  "name": "karma-mock-launcher",
+  "version": "0.0.1",
+  "description": "A Karma plugin. Launcher for mock.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/karma-runner/karma-chrome-launcher.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-launcher",
+    "mock"
+  ],
+  "author": {
+    "name": "Cho Sungwoo",
+    "email": "sungwoo.cho.dev@gmail.com"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "karma": ">=0.9.3"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-npm": "~0.0.2",
+    "grunt-bump": "~0.0.6",
+    "grunt-auto-release": "~0.0.2"
+  },
+  "contributors": [
+  ],
+  "bugs": {
+    "url": "https://github.com/karma-runner/karma-chrome-launcher/issues"
+  },
+  "readme": "ERROR: No README data found!",
+  "homepage": "https://github.com/karma-runner/karma-chrome-launcher",
+  "_id": "karma-mock-launcher@0.0.1",
+  "_from": "karma-mock-launcher@"
+}
