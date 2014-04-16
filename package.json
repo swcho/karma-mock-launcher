@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/karma-runner/karma-chrome-launcher.git"
+    "url": "git@github.com:swcho/karma-mock-launcher.git"
   },
   "keywords": [
     "karma-plugin",
@@ -33,10 +33,10 @@
   "contributors": [
   ],
   "bugs": {
-    "url": "https://github.com/karma-runner/karma-chrome-launcher/issues"
+    "url": "https://github.com/swcho/karma-mock-launcher/issues"
   },
   "readme": "ERROR: No README data found!",
-  "homepage": "https://github.com/karma-runner/karma-chrome-launcher",
+  "homepage": "https://github.com/swcho/karma-mock-launcher",
   "_id": "karma-mock-launcher@0.0.1",
   "_from": "karma-mock-launcher@"
 }
